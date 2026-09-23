@@ -507,4 +507,18 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD",Nickelodeon (480p)
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVMetrópole.br" tvg-chno="" group-title="Aberta UHF" tvg-logo="",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Motorvision TV - Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Gospel Movie TV 
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Nova Era TV 
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Rede Gospel 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
