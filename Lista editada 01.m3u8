@@ -522,3 +522,15 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Rede Gospel 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
+#EXTINF:-1  tvg-id="CANAL GOV" tvg-name="102" tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="NOTÍCIAS",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1  tvg-id="TV VIDEONEWS" tvg-name="105" tvg-logo="https://i.imgur.com/4m1j3CL.png" group-title="NOTÍCIAS",TV VIDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="Hard Knock Fighting" tvg-name="191" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="ESPORTE",Hard Knock Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+
+#EXTINF:-1 tvg-name="TV OURO NEGRO" tvg-id="TV OURO NEGRO" tvg-logo="https://imgur.com/mfdXYXs.png" group-title="ABERTO",TV OURO NEGRO
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+
