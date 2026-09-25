@@ -567,3 +567,39 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:0 group-title="Educativo" tvg-id="" tvg-name="TV Sul" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Sul
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+http://170.83.16.50/REDE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br@SD",Rede TV! (720p)
+http://45.162.64.114/REDE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (720p)
+http://168.197.104.22/REDE_VIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV (720p)
+http://170.83.49.66:8083/RITHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3.br@SD",SporTV 3 (720p)
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br@SD",History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br@SD",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br@SD",History (720p)
+http://177.52.24.163/HISTORY-HD/index.m3u8
+
